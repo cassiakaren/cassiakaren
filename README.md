@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://porforever.tumblr.com/post/141250589613/programmer-day" alt="octocat">
+  <img width="300" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" alt="octocat">
 </p>
 
 # :octocat: Cassia Karen
